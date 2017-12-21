@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: /littlepeacock/
 
 # Website info
 title: Little Peacock
@@ -14,8 +14,8 @@ cover: assets/images/blog-cover2.jpg
 logo: assets/images/littlepeacock-logo.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: http://littlepeacock.co
-source_url: http://littlepeacock.co
+production_url: https://littlepeacockapps.github.io/littlepeacock/
+source_url: https://github.com/littlepeacockapps/littlepeacock/
 
 # Social info
 navigation: True # show the navbar links
@@ -70,12 +70,12 @@ feed:
 safe: False
 lsi: False
 username: littlepeacockapps
-repo: https://github.com/littlepeacockapps/website
-branch: master
-relative_source: ../website
-destination: ../littlepeacock/
-production_url:  http://littlepeacock.co
-source_url:  http://littlepeacock.co
+repo: littlepeacock
+branch: gh-pages
+relative_source: ../littlepeacock
+destination: ../_site
+production_url:  https://littlepeacockapps.github.io/littlepeacock/
+source_url:  https://github.com/littlepeacockapps/littlepeacock/
 
 exclude:
   - README.md
