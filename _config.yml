@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-us'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: /littlepeacock/
 
 # Website info
 title: Little Peacock
@@ -67,15 +67,15 @@ feed:
 # or "master" otherwise
 
 
-safe: False
-lsi: False
-username: littlepeacockapps
-repo: littlepeacock
-branch: gh-pages
-relative_source: ../littlepeacock/
-destination: ../littlepeacock-pages/
-production_url:  https://littlepeacockapps.github.io/littlepeacock/
-source_url:  https://github.com/littlepeacockapps/littlepeacock/
+# safe: False
+# lsi: False
+# username: littlepeacockapps
+# repo: littlepeacock
+# branch: gh-pages
+# relative_source: ../littlepeacock/
+# destination: ../littlepeacock-pages/
+# production_url:  https://littlepeacockapps.github.io/littlepeacock/
+# source_url:  https://github.com/littlepeacockapps/littlepeacock/
 
 exclude:
   - README.md
