@@ -73,7 +73,7 @@ username: littlepeacockapps
 repo: https://github.com/littlepeacockapps/website
 branch: master
 relative_source: ../website
-destination: ../jasper2-pages/
+destination: ../littlepeacock/
 production_url:  http://littlepeacock.co
 source_url:  http://littlepeacock.co
 
