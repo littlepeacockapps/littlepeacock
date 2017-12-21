@@ -9,7 +9,7 @@ baseurl: /littlepeacock/
 
 # Website info
 title: Little Peacock
-description: A app development company
+description: An app development company
 cover: assets/images/blog-cover2.jpg
 logo: assets/images/littlepeacock-logo.png
 logo_dark: assets/images/favicon.png
@@ -67,15 +67,15 @@ feed:
 # or "master" otherwise
 
 
-# safe: False
-# lsi: False
-# username: littlepeacockapps
-# repo: littlepeacock
-# branch: gh-pages
-# relative_source: ../littlepeacock/
-# destination: ../littlepeacock-pages/
-# production_url:  https://littlepeacockapps.github.io/littlepeacock/
-# source_url:  https://github.com/littlepeacockapps/littlepeacock/
+safe: False
+lsi: False
+username: littlepeacockapps
+repo: littlepeacock
+branch: gh-pages
+relative_source: ../littlepeacock/
+destination: ../littlepeacock-pages/
+production_url:  https://littlepeacockapps.github.io/littlepeacock/
+source_url:  https://github.com/littlepeacockapps/littlepeacock/
 
 exclude:
   - README.md
