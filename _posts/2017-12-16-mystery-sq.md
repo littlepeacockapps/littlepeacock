@@ -7,9 +7,9 @@ title: Mystery Sq
 date: 2017-12-16 22:54:00
 tags: [Games]
 class: post-template
-subclass: 'post tag-getting-started'
+subclass: 'post'
 author: peacock
 categories: games
 ---
 
-Hey! Mystery Sq is an app where you paint pixels to reveal a picture. Discover the picture as you paint.
+Hey! Mystery Sq is coming soon...
